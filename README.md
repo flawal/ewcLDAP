@@ -16,7 +16,7 @@ Set your LDAP connection parameters
         'host'   => 'YOUR_LDAP_HOST', // Replace with your LDAP host
         'ou'     => 'OU=Corporate Users,OU=Corporate,OU=YOUR_COMPANY', // Replace with your organization
         'dc'     => 'DC=YOUR_DOMAIN,DC=com', // Replace with your LDAP domain
-        'port'   => '389',
+        'port'   => '389', // Replace with your LDAP port
         'domain' => 'YOUR_DOMAIN', // Replace with your LDAP domain
     );
 
@@ -28,9 +28,9 @@ Instantiate the class and call the login method
         if ($status && !empty($userData)) {
             // authentication successful...
         }
-        } catch (Exception $e) {
-            // handle errors here...
-        }
+    } catch (Exception $e) {
+        // handle errors here...
+    }
 
 Contact
 -------
@@ -40,6 +40,7 @@ I'll answer any questions about how to use the code. Also, if you create an app 
 If you want to submit a feature request or bug report, fork the code and implement the feature/fix, then submit a pull request.
 
 Thanks,
+
 Fuad Lawal
 
 Me: http://www.fuadlawal.com
