@@ -44,5 +44,9 @@ Thanks,
 Fuad Lawal
 
 Me: http://www.fuadlawal.com
-My Work: http://www.ewebconsult.com Twitter: http://twitter.com/ewebconsult
+
+My Work: http://www.ewebconsult.com
+
+Twitter: http://twitter.com/ewebconsult
+
 Hire Me: https://www.linkedin.com/in/fadguru
